@@ -8,7 +8,8 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Hello World!");
             Console.Write("hi");
-            Console.Write("abcd");    
+            Console.Write("abcd");
+            Console.Write("");
         }
     }
 }
